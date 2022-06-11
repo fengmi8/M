@@ -8,7 +8,6 @@
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://topchip.github.io/M/baddychen0608.jar",
 "spider":"https://topchip.github.io/M/baddychen0608.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
